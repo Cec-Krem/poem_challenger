@@ -43,3 +43,10 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Pas besoin de publier tout ce qui est généré, c'est un repo pour le code Dart
+ios/
+android/
+macos/
+web/
+windows/
