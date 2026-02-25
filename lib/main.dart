@@ -26,7 +26,6 @@ class MainApp extends StatelessWidget {
     const int whiteColor = 0xFFF5F5F5;
 
     return MaterialApp(
-      showPerformanceOverlay: true,
       debugShowCheckedModeBanner: false,
       home: HomeMenu(),
       title: "Poem Challenger",
